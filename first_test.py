@@ -1,4 +1,4 @@
-from ops import *
+import pytest
 from PythonAppJenkinsCICD import *
 
 def test_add():
